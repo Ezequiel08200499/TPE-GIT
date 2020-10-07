@@ -1,6 +1,6 @@
 @media only screen and (max-width: 660px) {
   body {
-    background-color: grey;
+    background-color: black;
     border: solid 1px white;
     width: 100%;
     margin: 0 auto;
@@ -81,7 +81,7 @@
     display: block;
     line-height: 2.5;
     padding: 0 1em;
-    border-bottom: 1px solid cadetblue;
+    border-bottom: 1px solid grey;
   }
   body #mostrar-menu {
     display: none;
@@ -123,7 +123,7 @@
     display: block;
     line-height: 2.5;
     padding: 0 1em;
-    border-bottom: 1px solid cadetblue;
+    border-bottom: 1px solid black;
   }
   body #mostrar-menu-table {
     display: none;
@@ -165,7 +165,7 @@
     display: block;
     line-height: 2.5;
     padding: 0 1em;
-    border-bottom: 1px solid cadetblue;
+    border-bottom: 1px solid black;
   }
   body #mostrar-menu-contacto {
     display: none;
@@ -207,7 +207,7 @@
     display: block;
     line-height: 2.5;
     padding: 0 1em;
-    border-bottom: 1px solid cadetblue;
+    border-bottom: 1px solid black; 
   }
   body #mostrar-menu-noticia1 {
     display: none;
@@ -249,7 +249,7 @@
     display: block;
     line-height: 2.5;
     padding: 0 1em;
-    border-bottom: 1px solid cadetblue;
+    border-bottom: 1px solid grey;
   }
   body #mostrar-menu-noticia2 {
     display: none;
@@ -291,7 +291,7 @@
     display: block;
     line-height: 2.5;
     padding: 0 1em;
-    border-bottom: 1px solid cadetblue;
+    border-bottom: 1px solid grey;
   }
   body #mostrar-menu-noticia3 {
     display: none;
@@ -333,7 +333,7 @@
     display: block;
     line-height: 2.5;
     padding: 0 1em;
-    border-bottom: 1px solid cadetblue;
+    border-bottom: 1px solid grey;
   }
   body #mostrar-menu-noticia4 {
     display: none;
@@ -375,7 +375,7 @@
     display: block;
     line-height: 2.5;
     padding: 0 1em;
-    border-bottom: 1px solid cadetblue;
+    border-bottom: 1px solid grey;
   }
   body #mostrar-menu-noticia5 {
     display: none;
@@ -396,14 +396,14 @@
   }
   body .article-class {
     width: 100%;
-    background-color: white;
+    background-color: black;
     text-align: center;
     height: 900px;
   }
   body .article-class-dos {
     width: 100%;
     height: 620px;
-    background-color: grey;
+    background-color: black;
     text-align: center;
   }
   body .article-class-dos h4 {
@@ -466,7 +466,7 @@
 }
 @media only screen and (min-width: 660px) {
   body {
-    background-color: cadetblue;
+    background-color: grey;
     text-align: center;
   }
   body .item-especial {
@@ -684,7 +684,7 @@
   body .article-class-dos {
     width: 40%;
     height: 1100px;
-    background-color: grey;
+    background-color: white;
   }
   body .article-class-dos img {
     width: 50%;
