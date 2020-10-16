@@ -209,6 +209,14 @@
     padding: 0 1em;
     border-bottom: 1px solid black; 
   }
+  body .nav-class-noticia6 ul a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    line-height: 2.5;
+    padding: 0 1em;
+    border-bottom: 1px solid black; 
+  }
   body #mostrar-menu-noticia1 {
     display: none;
   }
