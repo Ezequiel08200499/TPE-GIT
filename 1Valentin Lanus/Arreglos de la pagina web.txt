@@ -1,0 +1,16 @@
+-git bash here en TPE-GIT
+-git status para comprobar si hay algun erro
+-git branch Modificaciones
+-git checkout Modificaciones
+Realize modificaciones y arreglos en la pagina web como por ejemplo: arreglar los links de las imagenes y errores del color del fondo porque no se puede leer el texto
+Tambien modifique el titulo de la seccion3 en el index
+-git add .
+-git commit -m "Modificaciones realizadas"
+-git checkout master
+-git merge Modificaciones
+-git push
+-git branch
+	Pruebas
+	Modificaciones
+	*Master
+-git branch -D Modificaciones
